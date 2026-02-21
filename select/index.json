@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アイドル戦士 (feat. 初音ミク）",
+  "base_artist": "Mitchie M",
+  "createdAt": "2026-02-21T11:40:27.774540Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイドル戦士",
+      "artist": "Mitchie M (feat. 初音ミク)",
+      "has_synced": false,
+      "path": "select/pl_01_アイドル戦士_Mitchie_M_(feat._初音ミク).txt"
+    }
+  ]
+}
